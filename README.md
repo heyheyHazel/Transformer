@@ -23,7 +23,7 @@ PyTorch implementation of Transformer: Attention is all you need.
 ### 🔧 Transformer完整代码实现
 
 - [🧩 Transformer完整代码注释](transformer.ipynb)
-  - [《Attention Is All You Need》](http://arxiv.org/abs/1706.03762) - 原始论文阅读（可参考[Transformer论文逐段精读](https://www.bilibili.com/video/BV1pu411o7BE/?spm_id_from=333.337.search-card.all.click)）
+  - [《Attention Is All You Need》](https://arxiv.org/pdf/1706.03762) - 原始论文阅读（可参考[Transformer论文逐段精读](https://www.bilibili.com/video/BV1pu411o7BE/?spm_id_from=333.337.search-card.all.click)）
 
 
 
